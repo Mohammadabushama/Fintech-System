@@ -1,0 +1,24 @@
+1- admin can see all of the trasnactions and filter them based user, id, email.
+
+Setup database
+SQLAlchemy (Python pacakge)
+Mysql
+
+Build database schema
+
+
+Users types:
+Admin
+Normal User
+
+
+- Auth
+    id, username, password, user_type (User, Admin), user_id
+-  User
+    id, email, mobile, full_name
+    
+
+Login admin in
+Craete user profile by admin
+
+Login user in
